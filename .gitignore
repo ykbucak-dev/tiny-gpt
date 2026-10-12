@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datasets and model weights (too big for GitHub)
+data/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Notebooks
+.ipynb_checkpoints/
